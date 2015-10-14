@@ -5,7 +5,7 @@ Please feel free to submit new tools. Try to write them in python and avoid usin
 
 burstpdf
 -----
-This utility will burst your PDF into separate files. Usage:
+This utility will burst (split) your PDF into separate files. Usage:
 ```
 python burstpdf.py <PDF file> <Output directory> <Frist Page> <Last Page>
 ```
