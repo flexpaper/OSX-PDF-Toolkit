@@ -6,15 +6,19 @@ Please feel free to submit new tools. Try to make them python compatible and avo
 burstpdf
 -----
 This utility will burst your PDF into separate files. Usage:
+```
 python burstpdf.py &lt;PDF file&gt; &lt;Output directory&gt; &lt;Frist Page&gt; &lt;Last Page&gt;
+```
 
 cat
 -----
 This tool extracts specific pages out of your PDF document. Usage:
+```
 python cat.py &lt;PDF File&gt; &lt;Range (1,2,3)&gt; &lt;Output directory&gt;
+```
 
 License
 -------------------
 MIT
-
-&lt;h3&gt;Maintained and sponsored by █▒▓▒░ &lt;a href="http://flexpaper.devaldi.com/"&gt;The FlexPaper Project&lt;/a&gt;&lt;/h3&gt;
+<br/>
+<h3>Maintained and sponsored by █▒▓▒░ <;a href="http://flexpaper.devaldi.com/"&gt;The FlexPaper Project</a></h3>
