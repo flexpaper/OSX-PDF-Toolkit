@@ -1,7 +1,7 @@
 OSX PDF Toolkit
 =======
 Because some tools such as PDFTk no longer work on OSX El Capitan we thought we might share a few tools which are helpful under OSX. 
-Please feel free to submit new tools. Try to make them python compatible and avoid using third party libraries if possible. 
+Please feel free to submit new tools. Try to write them in python and avoid using third party libraries if possible. 
 
 burstpdf
 -----
