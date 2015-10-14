@@ -7,18 +7,18 @@ burstpdf
 -----
 This utility will burst your PDF into separate files. Usage:
 ```
-python burstpdf.py &lt;PDF file&gt; &lt;Output directory&gt; &lt;Frist Page&gt; &lt;Last Page&gt;
+python burstpdf.py <PDF file> <Output directory> <Frist Page> <Last Page>
 ```
 
 cat
 -----
 This tool extracts specific pages out of your PDF document. Usage:
 ```
-python cat.py &lt;PDF File&gt; &lt;Range (1,2,3)&gt; &lt;Output directory&gt;
+python cat.py <PDF File> <Range (1,2,3)> <Output directory>
 ```
 
 License
 -------------------
 MIT
 <br/>
-<h3>Maintained and sponsored by █▒▓▒░ <;a href="http://flexpaper.devaldi.com/"&gt;The FlexPaper Project</a></h3>
+<h3>Maintained and sponsored by █▒▓▒░ <;a href="http://flexpaper.devaldi.com/">The FlexPaper Project</a></h3>
